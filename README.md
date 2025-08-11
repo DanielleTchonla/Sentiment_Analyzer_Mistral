@@ -56,12 +56,15 @@ pip install -r requirements.txt
 uvicorn backend.main:app --reload --port 8001
 
 Access API docs at: [http://localhost:8001/docs](http://localhost:8001/docs)
+![alt text](image-1.png)
 
 5. **Start the Streamlit frontend**
 In a new terminal (with venv activated):
 streamlit run frontend/app.py
 
 Access frontend UI at: [http://localhost:8501](http://localhost:8501)
+![alt text][def]
+![alt text](image-2.png)
 
 ---
 
@@ -178,3 +181,6 @@ Feel free to reach out if you have questions.
 
 *This README is intended for public testers of the app.*
 
+
+
+[def]: image.png
