@@ -108,8 +108,8 @@ curl -X POST -F "text=I love this app" http://localhost:8001/analyze/
 
 ## Contact
 
-Author: **[Your Name]**  
-Email: **[Your Email]**
+Author: Danielle Felix  
+Email: tchonladanielle@gmail.com
 
 ---
 
